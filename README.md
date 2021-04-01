@@ -1,7 +1,7 @@
 <img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Data%20Science.jpeg" height = 300 width = 100%><img>
 
 
-# Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
+# Greetings Respected viewers <img src="https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/wave.gif" width="30px">
 
 This is ***Santosh Saxena*** and I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Pune, India. Anyone can find me on :
 Anyone can find me on :
