@@ -3,7 +3,7 @@
 
 # Greetings Respected viewers <img src="https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/wave.gif" width="30px">
 
-This is ***Santosh Saxena*** and I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Pune, India. Anyone can find me on :
+This is ***Prasanna Kumar G*** and I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Bengaluru, India. Anyone can find me on :
 Anyone can find me on :
 
 &nbsp;<a href = "linkedin.com/in/santosh-saxena" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Linkedin.png" height="20"><img></a>
