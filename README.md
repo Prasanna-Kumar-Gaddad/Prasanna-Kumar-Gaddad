@@ -1,4 +1,4 @@
-<img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Data%20Science.jpg" height = 300 width = 100%><img>
+<img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Data%20Science.jpg" height = 400 width = 100%><img>
 
 
 # Greetings Respected viewers <img src="https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/wave.gif" width="30px">
