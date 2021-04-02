@@ -38,7 +38,7 @@ Anyone can also contact me via
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
 
-For More Details refer my resume <a href = "https://github.com/SAXENA-SANTOSH/Resume">click here for resume</a>
+For More Details refer my resume <a href = "https://github.com/Prasanna-Kumar-Gaddad/Resume/blob/main/Prasanna's%20Resume.pdf">click here for resume</a>
   
   ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad">
