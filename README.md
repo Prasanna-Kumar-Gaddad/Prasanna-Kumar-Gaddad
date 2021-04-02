@@ -5,9 +5,9 @@
 
 This is ***Prasanna Kumar G*** and I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Bengaluru, India. Anyone can find me on :
 
-&nbsp;<a href = "linkedin.com/in/santosh-saxena" ><img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Linkedin.png" height="20"><img></a>
-&nbsp;<a href = "https://scholar.google.com/citations?user=WifMgUgAAAAJ&hl=en" ><img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/twitter.jpg" height="20"><img></a>
-&nbsp;<a href = "https://www.instagram.com/santosh_saxena_60/" ><img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Instagram.jpeg" height="20"><img></a>
+&nbsp;<a href = "https://www.linkedin.com/in/prasanna-gaddad/" ><img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Linkedin.png" height="20"><img></a>
+&nbsp;<a href = "https://twitter.com/PrasanGaddad" ><img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/twitter.jpg" height="20"><img></a>
+&nbsp;<a href = "https://www.instagram.com/prasannagaddad/" ><img src = "https://github.com/Prasanna-Kumar-Gaddad/Prasanna-Kumar-Gaddad/blob/main/Images/Instagram.jpeg" height="20"><img></a>
 
 
 Anyone can also contact me via 
